@@ -1,0 +1,15 @@
+*.pdf
+*.log
+*.aux
+*.out
+*.backup
+*.directory
+*.nav
+*.snm
+*.toc
+*.gz
+*.ppu
+*.o
+*.exe
+*.h~
+*.c~
